@@ -1,8 +1,8 @@
-var tomatoPice = 20;
-tomatoPice = 30;
-var price1 = 30;
-var price2 = 40;
-var newPrice1 = price1 + 20;
-console.log(newPrice1);
- price2 -= 20;
-console.log(price2);
+var price1 = 10;
+var price2 = 20;
+var totalPrice = price1 + price2;
+// console.log(totalPrice);
+var firstName = 'zayed';
+var lastName = 'opu';
+var fullName = firstName + ' ' + lastName;
+console.log(fullName);
