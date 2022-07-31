@@ -1,5 +1,5 @@
-var price = 10;
-var age = 13;
-var temparature = 43;
-var marks= true;
-var isnasty = true;
+var onionPrice = 10;
+var eggPrice = 30;
+console.log(onionPrice);
+console.log(eggPrice);
+console.log(onionPrice + eggPrice);
