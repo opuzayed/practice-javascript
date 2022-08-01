@@ -1,4 +1,4 @@
-var mangoes = 13;
-var person = 5;
-var remainder = mangoes % person;
-console.log(remainder);
+var numericValue = [1, 2, 3];
+var names = ['opu', 'rakib', 'rony'];
+var positionName = names[1];
+console.log(positionName);
