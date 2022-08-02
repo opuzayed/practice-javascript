@@ -7,4 +7,14 @@
 var numbers = [1, 2, 3, 4, 5];
 numbers.unshift(6, 7);
 console.log(numbers);
+// condition
+var isGraduated = true;
+var salary = 25000;
+if(isGraduated == false && salary > 50000)
+{
+    console.log("i'll marry you");
+}
+else{
+    console.log("i'll not marry you");
+}
 
