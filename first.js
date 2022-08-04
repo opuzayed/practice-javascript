@@ -74,3 +74,6 @@ var mobile = {
     processor : 'i7'
 }
 console.log(mobile.price);
+mobile.price = 34000;
+console.log(mobile);
+console.log(mobile.price);
